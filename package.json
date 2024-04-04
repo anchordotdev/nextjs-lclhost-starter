@@ -10,6 +10,7 @@
     "prepare": "husky"
   },
   "dependencies": {
+    "anchor-pki": "^0.3.1",
     "next": "14.1.4",
     "react": "^18",
     "react-dom": "^18"
