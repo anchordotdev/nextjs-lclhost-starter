@@ -45,6 +45,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 To learn more about lcl.host and Anchor, take a look at the following resources:
 
+- [Next.js+lcl.host Setup Guide](https://anchor.dev/blog/https-on-localhost-nextjs)
 - [Anchor](https://anchor.dev)
 - [Lcl.host](https://lcl.host)
 - [Lcl.host / Anchor Documentation](https://anchor.dev/docs)
