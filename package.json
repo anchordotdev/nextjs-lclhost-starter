@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "anchor-pki": "^0.3.1",
-    "next": "14.2.10",
+    "next": "14.2.21",
     "react": "^18",
     "react-dom": "^18"
   },
